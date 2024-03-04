@@ -20,7 +20,7 @@ La complexité temporelle de cette fonction est O(n), où n est la longueur de l
 
 La complexité mémoire est O(k), où k est la taille maximale de la pile pendant l'itération.
 
-Usage : 
+## USAGE
 
 Fonction test_chain
 
